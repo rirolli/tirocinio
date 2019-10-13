@@ -1,2 +1,4 @@
 # tirocinio
-miao miao miao
+
+##Requirements
+-tenserflow 2.x
