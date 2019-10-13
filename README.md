@@ -1,4 +1,4 @@
 # tirocinio
 
-##Requirements
--tenserflow 2.x
+## Requirements
+- tenserflow 2.x
